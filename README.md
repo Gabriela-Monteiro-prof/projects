@@ -1,2 +1,2 @@
 # projects
-Estudo sobre Robótica e programação
+Repositório teste, apenas para criação da conta no GitHub
